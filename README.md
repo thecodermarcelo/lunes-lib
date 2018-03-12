@@ -89,7 +89,7 @@ Returns a confirmation and phoneIsVerified = true.
 
 ### Coins
 
-#### .coins.getPrice({fromSymbol,toSymbom,exchange})
+#### .coins.getPrice({fromSymbol,toSymbol,exchange})
 
 Obtain the realtime price of one or more currencies.
 
@@ -105,7 +105,7 @@ e.g
 {"BTC":0.009878,"USD":10.79,"EUR":10.37}
 ```
 
-#### .coins.getHistory({fromDate, toDate, fromSymbol,toSymbom, exchange})
+#### .coins.getHistory({fromDate, toDate, fromSymbol,toSymbol, exchange})
 
 Obtain an history of some currency (fromSymbol) and its conversion to another (toSymbol) in a period from "fromDate" to "toDate".
 
