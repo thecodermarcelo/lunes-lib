@@ -134,7 +134,7 @@ Return an object containing history metadata and an array containing the low, hi
     },
     {
       "close": 11388.52,
-      "time": "1516914000
+      "time": 1516914000
     }
   ]
 }
